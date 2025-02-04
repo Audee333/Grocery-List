@@ -1,0 +1,64 @@
+html{
+    background-color: rgb(96, 170, 117);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+h1{
+    text-align:center;
+    background-color: rgb(170, 96, 149);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-family:amandine, sans-serif;
+    font-style:normal;
+    font-size: 60px;
+}
+.List{
+    background-color: rgb(110, 184, 139);
+    margin: 10px;
+    padding: 2px;
+    border-radius: 8px;
+}
+.Recipe{
+    background-color: #60aa75;
+    border-radius: 10px;
+    text-align: center;
+    font-family: amandine, sans-serif;
+    font-size: 30px;
+}
+.AsianTunaSalad{
+    display: block;
+    height:100px;
+    width:100px;
+}
+.Recipes{
+    background-color: rgb(110, 184, 139);
+    margin: 10px;
+    padding: 2px;
+    border-radius: 20px;
+}
+h2, ul{
+    margin: 10px;
+    font-family: avenir, sans-serif;
+}
+h3{
+    margin: 2px;
+    padding: 6px;
+}
+h3, ol{
+    margin: 4px;
+    font-family: avenir, sans-serif;
+    font-style: light;
+}
+h3, ul{
+    margin: 4px;
+    font-family: avenir, sans-serif;
+    font-style: light;
+}
+footer, p{
+    display: block;
+    font-family: avenir, sans-serif;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+}
